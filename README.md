@@ -1,2 +1,9 @@
-# vie-finder
-VIE finder
+# VIE Finder
+
+Tests ongoing
+
+```bash
+python3 -m venv env
+source env/bin/activate
+python3 test.py
+```
